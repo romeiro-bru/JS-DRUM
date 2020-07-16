@@ -49,3 +49,19 @@ kbd {
   letter-spacing: .1rem;
   color: #f5c683;
 }
+
+.profile {
+  text-align: center;
+  font-family: Ubuntu;
+  font-size: 20px;
+}
+
+.profile a {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.profile img {
+  height: 50px;
+}
