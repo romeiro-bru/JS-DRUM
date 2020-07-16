@@ -1,6 +1,6 @@
 # LoL DRUM
 <p  align="center">
-<img  src="https://i.giphy.com/media/gIHn0t7PNSzF7Xiw2b/giphy.webp"  height="500" alt="Braum">
+<img  src="https://i.giphy.com/media/gIHn0t7PNSzF7Xiw2b/giphy.webp"  height="450" alt="Braum">
 </p>
 <br/>
 ## JAVASCRIPT exercise #01 
