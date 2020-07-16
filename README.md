@@ -1,9 +1,9 @@
-# LoL DRUM
+## JAVASCRIPT exercise #01 
 <p  align="center">
 <img  src="https://i.giphy.com/media/gIHn0t7PNSzF7Xiw2b/giphy.webp"  height="400" alt="Braum">
 </p>
 <br/>
-## JAVASCRIPT exercise #01 
+
 
 This is an exercise done with JS. :art:
 
