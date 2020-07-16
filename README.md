@@ -1,3 +1,8 @@
+# LoL DRUM
+<p  align="center">
+<img  src="https://media.giphy.com/media/gIHn0t7PNSzF7Xiw2b/giphy.gif"  height="200" alt="Trap Box">
+</p>
+<br/>
 ## JAVASCRIPT exercise #01 
 
 This is an exercise done with JS. :art:
